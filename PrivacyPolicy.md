@@ -1,5 +1,5 @@
-### Baby Grow Tracker Privacy Policy
-The "Baby Grow Tracker" app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
+### 66 Baby Minder Privacy Policy
+The "66 Baby Minder" app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
 #### Scope of application
 * the personal registration information you provide in accordance with the requirements of this application when you register for this application account.
@@ -71,7 +71,7 @@ We will let you know via email and/or a prominent notice on our Service.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 #### Contact
-If you have any questions about Baby Grow Tracker, please contact me:
+If you have any questions about 66 Baby Minder, please contact me:
 
 Github: https://github.com/marksmith-tech
 
